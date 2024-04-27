@@ -10,7 +10,8 @@ Repositório para armazenar resumo sobre Git e GitHub do curso de Versionamento 
 ## 💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos](https://radial-emmental-290.notion.site/Como-salvar-altera-es-em-um-repositorio-local-ac10e1c3095346b69af30fb8d289cbb9?pvs=4)
+| Aula 01 | [Resumos]() |
+| Aula 02 | [Resumos]() |
 
 
 ```
